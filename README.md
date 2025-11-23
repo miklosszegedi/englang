@@ -17,3 +17,6 @@ There are only two basic rules in Englang
 10. You can track the emotions of your developers and figure out with machine learning when they really need a raise
 11. You learn the schema from your family and friends, so it is ideal for APIs. You do not need to use json or yaml.
 12. Finally I won't need three different passwords to set up the smart plug for my Christmas Tree
+## Implementations
+Notable Englang projects on GitHub
+[https://github.com/TheHakan/EngLang](https://github.com/TheHakan/EngLang)
