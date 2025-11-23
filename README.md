@@ -1,22 +1,40 @@
 # englang
-Englang is a new programming language
+
+Englang is a new programming language that can be implemented as Engineering Programming Language, or English Programming Language depending on the use case.
+
 ## Rules
+
 There are only two basic rules in Englang
 1. Englang compiles to other programming languagages or machine code
-2. When in doubt, the syntax of the English language defines the syntax
+2. When you are in doubt, the syntax of the English language defines the rules
+
 ## Why
+
 1. The English language has been evolved in thousands of years, all programming languages are just few decades old
 2. The human language fits the human brain the best
 3. Machines became smart and cheap enough to handle the human language
 4. Basic programming tasks can be performed by folks with vocal education
 5. It is easy to debug and maintain
 6. It is easy to index and search
-7. There is nothing more portable than telling your code to your neighbour
+7. There is nothing more portable than explaining your code to your neighbour
 8. There is no need for comments
-9. You can even use rich text
+9. You can even use rich text for coding
 10. You can track the emotions of your developers and figure out with machine learning when they really need a raise
 11. You learn the schema from your family and friends, so it is ideal for APIs. You do not need to use json or yaml.
-12. Finally I won't need three different passwords to set up the smart plug for my Christmas Tree
+12. Finally I won't need three different dialects and passwords to set up the smart plug for my Christmas Tree
+
 ## Implementations
+
 Notable Englang projects on GitHub
+
 [https://github.com/TheHakan/EngLang](https://github.com/TheHakan/EngLang)
+
+[https://github.com/KittyBorgX/englang](https://github.com/KittyBorgX/englang)
+
+[https://github.com/kant2002/EngLang](https://github.com/kant2002/EngLang)
+
+[https://github.com/aaditkapoor/EnglangC](https://github.com/aaditkapoor/EnglangC)
+
+[https://github.com/mjgpy3/englang](https://github.com/mjgpy3/englang)
+
+[https://github.com/plunched/englang](https://github.com/plunched/englang)
